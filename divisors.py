@@ -1,3 +1,4 @@
+#202239878 이동호
 import sys
 
 number = int(sys.argv[1])
